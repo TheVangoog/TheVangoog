@@ -16,8 +16,6 @@ I'm mainly interested in **full-stack development, backend systems, databases, a
 
 <hr>
 
-<hr>
-
 <div align="center">
 
 ## 🎹 Outside of Code
