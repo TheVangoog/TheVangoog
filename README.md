@@ -12,15 +12,6 @@ Hey! I'm **Ivan** — a software developer and student who likes building things
 
 I'm mainly interested in **full-stack development, backend systems, databases, and creating useful web applications**.
 
-```text
-> CURRENT_STATUS
-
-  [████████████████░░░░] LEARNING
-  [██████████████░░░░░░] BUILDING
-  [███████████░░░░░░░░░] DEBUGGING
-  [████████████████████] CAFFEINE
-```
-
 ## ⚙️ What I'm Into
 
 * 🌐 Full-stack web development
@@ -38,30 +29,14 @@ When I'm not programming, I'm usually somewhere around **music**.
 
 I play around with **piano, guitar, music theory, and music production** — basically finding new ways to turn my free time into another thing I need to learn.
 
-```text
-code → music → random idea → code → repeat
-```
-
 ## 🧠 Currently Learning
 
 ```text
 ┌──────────────────────────────────────┐
-│  > becoming a better developer       │
-│  > building better projects         │
-│  > understanding systems deeply     │
-│  > learning new technologies        │
+│  > React Frontend                    │
+│  > NodeJS/.Net Backend               │
 └──────────────────────────────────────┘
 ```
-
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical\&hide_border=true)
-
-</div>
 
 ## 📡 Contact
 
@@ -74,12 +49,3 @@ code → music → random idea → code → repeat
 
 ---
 
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────┐
-│     BUILD THINGS • BREAK THINGS • LEARN      │
-└──────────────────────────────────────────────┘
-```
-
-</div>
