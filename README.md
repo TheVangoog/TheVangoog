@@ -1,1 +1,1 @@
- ![Banner](./ivan-github-banner.svg) 
+ ![Banner](./ivan-github-banner.svg)
